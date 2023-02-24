@@ -1,7 +1,7 @@
 -  Hi, I’m @adityarai004
 -  I’m interested in YEAH LEARNING
 -  I’m currently learning ANDROID DEV
--  I’m looking to collaborate on IDK
+-  I’m looking to collaborate on any android studio based project
 -  How to reach me can you see mail id on the profile?
 
 <!---
