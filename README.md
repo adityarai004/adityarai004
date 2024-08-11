@@ -5,21 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/adityarai_004" target="blank"><img src="https://img.shields.io/twitter/follow/adityarai_004?logo=twitter&style=for-the-badge" alt="adityarai_004" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Kotlin, RESTFUL, Firebase**
+- 🌱 I create Apps using **Java, Kotlin, Flutter(Dart), iOS(Swift)**
 
-- 👯 I’m looking to collaborate on **Any Android Based Projects**
+-  I create Backend using **NodeJs, ExpressJs, MongoDB**
 
-- 🤝 I’m looking for help with **Java, Frontend backend**
+- 👯 I cancollaborate on **Any Full Stack Mobile Development Based Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adityarai004?tab=repositories](https://github.com/adityarai004?tab=repositories)
 
 - 📝 I regularly write articles on [https://enoughaditya.hashnode.dev/](https://enoughaditya.hashnode.dev/)
 
-- 💬 Ask me about **Android development**
+- 💬 Ask me about **Mobile and Backend development**
 
 - 📫 How to reach me **adityaadiirai.004@gmail.com**
-
-- ⚡ Fun fact **I am a quick learner and funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
