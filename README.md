@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Rai</h1>
-<h3 align="center">I am an android developer from India</h3>
+<h3 align="center">I am a Full Stack Mobile Developer, expertising in Native Android, Jetpack compose, Native iOS, Flutter and NodeJS</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityarai004" alt="adityarai004" /></a> </p>
 
